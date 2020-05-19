@@ -3,6 +3,7 @@ define n =  Character("Nokio", color="00FF1A")
 define hero = Character("[Nhero]")
 
 label start:
+
 	"Salut je suis le narateur zbeb"
     "Il etait une fois dans un monde les skin fortine existe..."
     "Au debut personne etait au courant du plan des skin"
