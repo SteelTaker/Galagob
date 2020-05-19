@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 35: if statement expects a non-empty block.
+    if AimeFortnite == True:
+                            ^
+
+File "game/script.rpy", line 38: if statement expects a non-empty block.
+    if AimeFortnite == False:
+                             ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue May 19 00:23:48 2020
