@@ -3,7 +3,11 @@ define n =  Character("Nokio", color="00FF1A")
 define hero = Character("[Nhero]")
 
 label start:
+<<<<<<< HEAD
     "salut bonjour"
+=======
+    "salut"
+>>>>>>> c17da0f6de05b5384bef0e778f69dacdd79a135e
     "Il etait une fois dans un monde les skin fortine existe..."
     "Au debut personne etait au courant du plan des skin"
     "Mais le pire est venue et le monde c'est fait laver des humain"
